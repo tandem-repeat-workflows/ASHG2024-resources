@@ -9,4 +9,4 @@
 | `TDB`           | Create and query tandem repeat databases         | [GitHub](https://github.com/ACEnglish/tdb)             |
 | `TR Constraint` | Prioritization of potentially pathogenic repeats | Coming soon                                            |
 
-A complete workflow for analysis of variation clusters can be found [here](https://github.com/tandem-repeat-workflows/variation-cluster-analysis).
+A complete workflow for analysis of variation clusters can be found [here](https://github.com/tandem-repeat-workflows/variation-cluster-analysis/blob/main/variation-cluster-analysis.ipynb).
